@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedelwakil1.github.io/fany-takyifat-makkah/
